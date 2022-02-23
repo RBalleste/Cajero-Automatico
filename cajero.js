@@ -60,7 +60,6 @@ caja.push( new Billete(5, 5) );
 var dinero = 0;
 var div = 0;
 var papeles = 0;
-
 var resultado = document.getElementById("resultado");
 var b = document.getElementById("extraer");
 b.addEventListener("click", entregarDinero);

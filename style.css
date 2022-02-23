@@ -21,7 +21,7 @@ body {
   color: var(--color-white);
   margin: 0;
   text-align: center;
-  img: center;
+
 }
 
 /* mobile friendly alternative to using background-attachment: fixed */
